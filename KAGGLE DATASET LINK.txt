@@ -1,0 +1,4 @@
+SH17 Dataset for PPE Detection
+https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection?select=images
+
+PLEASE SEARCH THIS IN THE KAGGLE INPUT, YOU CAN DIRECTLY IMPORT IT THERE.
